@@ -1,5 +1,5 @@
 {
-  "male_names": [
+  "maleNames": [
     "Aldric",
     "Baldwin",
     "Cedric",
@@ -51,7 +51,7 @@
     "Wilfred",
     "Xander"
   ],
-  "female_names": [
+  "femaleNames": [
     "Aelwyn",
     "Brienne",
     "Ceridwen",

@@ -1,3 +1,1 @@
-{
-  "classes": ["Warrior", "Mage", "Rogue", "Ranger"]
-}
+["Warrior", "Mage", "Rogue", "Ranger"]
